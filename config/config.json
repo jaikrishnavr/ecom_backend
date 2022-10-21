@@ -2,7 +2,7 @@
     "development": {
         "host" : "localhost",
         "username" : "root",
-        "password" : "123456",
+        "password" : "",
         "database" : "ecommerce",
         "dialect" : "mysql",
         "pool" :{
@@ -15,7 +15,7 @@
     "test": {
         "host" : "localhost",
         "username" : "root",
-        "password" : "123456",
+        "password" : "",
         "database" : "ecomm_test_db",
         "dialect" : "mysql",
         "pool" :{
@@ -27,9 +27,9 @@
     },
     "production": {
         "host" : "sql6.freemysqlhosting.net",
-        "username" : "sql6528210",
-        "password" : "if6C7MIpjl",
-        "database" : "sql6528210",
+        "username" : "sql6528252",
+        "password" : "BA11EHtACi",
+        "database" : "sql6528252",
         "dialect" : "mysql",
         "pool" :{
             "max" :5,

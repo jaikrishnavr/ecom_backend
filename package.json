@@ -10,7 +10,7 @@
     "migrate:reset": "npx sequelize-cli db:migrate:undo:all && npm run migrate",
     "pretest": "cross-env NODE_ENV=test npm run migrate:reset"
   },
-  "author": "Himanshu",
+  "author": "Pallab Nandi",
   "license": "ISC",
   "dependencies": {
     "@types/jest": "^29.1.2",
